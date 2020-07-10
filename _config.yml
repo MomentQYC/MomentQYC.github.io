@@ -1,1 +1,7 @@
-theme: jekyll-theme-cayman
+theme: next
+sitetitle: YATeam Page
+subtitle: 一个自发性组织
+description: 我们致力于建设互联网更好的明天
+keywords: 'YATeam'
+author: 七夜草
+language: zh-CN
