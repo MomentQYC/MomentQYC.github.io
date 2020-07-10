@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## 欢迎来到YATeam
 
-You can use the [editor on GitHub](https://github.com/MomentQYC/MomentQYC.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+你可以访问我们的 [支持页面](https://support.yateam.club) 获取帮助或提出自己的见解。
+
+---
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
