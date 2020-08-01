@@ -5,3 +5,7 @@ description: 我们致力于建设互联网更好的明天
 keywords: 'YATeam'
 author: 七夜草
 language: zh-CN
+deploy:
+  type: git
+  repository: https://github.com/MomentQYC/MomentQYC.github.io
+  branch: master
